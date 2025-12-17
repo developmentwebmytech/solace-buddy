@@ -14,7 +14,7 @@ export function AboutHero() {
             </h1>
             <p className="leading-relaxed text-muted-foreground">
               Welcome to SolaceBuddy.com – your trusted digital companion in
-              finding the perfect PG accommodation.
+              finding the perfect PG accommodation
             </p>
             <p className="leading-relaxed text-muted-foreground">
               We are a tech-driven platform designed to bridge the gap between
